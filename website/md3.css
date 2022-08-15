@@ -1,0 +1,129 @@
+.
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(photo-1564507592333-c60657eea523.jpg);
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+.hero
+{
+    font-size: 19px;
+    color: white;
+    margin-left:  570px;
+    margin-top: auto;
+    text-align: center;
+    text-decoration: none;
+    position: absolute;
+}
+.button
+{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 650px;
+    margin-right: auto;
+}
+.btn
+{
+    color: deeppink;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Ropoto" sans-serif;
+    padding: 2px 6px;
+    border: 2px solid lavender;
+     border-radius: 50px;
+}
+.btn-one:hover
+{
+    background-color: palegreen;
+}
+.paragraph
+{
+    position: absolute;
+     margin-top: 40px;
+    margin-right: 20px;
+    color: aqua;
+    font-size: 20px;
+}
+.image
+{
+    margin-top: 380px;
+    margin-left: 130px;
+    position: absolute;
+    align-content: flex-start;
+    padding: 2px 100px;
+    
+}
+.image1
+{
+    margin-top: 380px;
+    margin-left: 620px;
+    position: absolute;
+    align-content: center;
+    width: 300px;
+}
+.image2
+{    
+    margin-top: 380px;
+    margin-left: 1000px;
+    position: absolute;
+    align-content: flex-end;
+    width: 300px;
+}
+.paragraph1
+{
+    position: absolute;
+  margin-top: 620px;
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+     font-family: "Ropoto" sans-serif;
+    
+}
+.head
+{
+    position: absolute;
+    margin-top: 990px;
+    align-content: center;
+    justify-content: center;
+    margin-left:  650px;
+    color: deeppink;
+}
+.image4
+{
+    margin-top: 1040px;
+    margin-left: 130px;
+    position: absolute;
+    align-content: flex-start;
+    padding: 2px 100px;
+    
+}
+.image5
+{
+    margin-top: 1040px;
+    margin-left: 620px;
+    position: absolute;
+    align-content: center;
+    width: 300px;
+}
+.image6
+{    
+    margin-top: 1040px;
+    margin-left: 1000px;
+    position: absolute;
+    align-content: flex-end;
+    width: 300px;
+}
+.paragraph2
+{
+    position: absolute;
+    margin-top: 1240px;
+    color: darkblue;
+    font-size: 20px;
+    text-decoration: none;
+     font-family: "Ropoto" sans-serif;
+}
